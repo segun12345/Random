@@ -9,7 +9,7 @@ package com.student;
  */
 public class Student {
     private String name;
-    private String address;
+    private String address;   s
     private String postcode;
 
     public String getName() {
